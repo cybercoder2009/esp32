@@ -1,4 +1,9 @@
-### setup
+### prerequisites
 * vscode, git
-* ```git clone https://github.com/espressif/esp-idf``` - iot development framework
-* ```esp-adf https://github.com/espressif/esp-adf``` - audio development framework
+* https://github.com/espressif/esp-idf - iot development framework
+* https://github.com/espressif/esp-adf - audio development framework
+
+### idf.py
+* ```cd esp-idf && ./install.sh && . ./export.sh```
+
+### 
